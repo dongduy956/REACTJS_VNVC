@@ -1,0 +1,16 @@
+export const typeOfVaccine = 'import/typeOfVaccine';
+export const vaccine = 'import/vaccine';
+export const customerType = 'import/customerType';
+export const paymentMethod = 'import/paymentMethod';
+export const customerRank = 'import/customerRank';
+export const regulationInjection = 'import/regulationInjection';
+export const regulationCustomer = 'import/regulationCustomer';
+export const shipment = 'import/shipment';
+export const supplier = 'import/supplier';
+export const vaccinePrice = 'import/vaccinePrice';
+export const vaccinePackage = 'import/vaccinePackage';
+export const vaccinePackageDetail = 'import/vaccinePackageDetail';
+export const customer = 'import/customer';
+export const staff = 'import/staff';
+export const additionalCustomerInformation = 'import/additionalCustomerInformation';
+export const permission = 'import/permission';

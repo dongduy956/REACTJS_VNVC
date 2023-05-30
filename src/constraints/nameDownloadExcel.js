@@ -1,0 +1,14 @@
+export const typeOfVaccine = '[Bản mẫu nhập dữ liệu loại vaccine].xlsx';
+export const vaccine = '[Bản mẫu nhập dữ liệu vaccine].xlsx';
+export const customerType = '[Bản mẫu nhập dữ liệu loại khách hàng].xlsx';
+export const paymentMethod = '[Bản mẫu nhập dữ liệu phương thức thanh toán].xlsx';
+export const customerRank = '[Bản mẫu nhập dữ liệu xếp loại khách hàng].xlsx';
+export const regulationInjection = '[Bản mẫu nhập dữ liệu quy định tiêm].xlsx';
+export const regulationCustomer = '[Bản mẫu nhập dữ liệu quy định tiêm].xlsx';
+export const shipment = '[Bản mẫu nhập dữ liệu lô vaccine].xlsx';
+export const supplier = '[Bản mẫu nhập dữ liệu nhà cung cấp].xlsx';
+export const vaccinePrice = '[Bản mẫu nhập dữ liệu giá vaccine].xlsx';
+export const vaccinePackage = '[Bản mẫu nhập dữ liệu gói vaccine].xlsx';
+export const customer = '[Bản mẫu nhập dữ liệu khách hàng].xlsx';
+export const staff = '[Bản mẫu nhập dữ liệu nhân viên].xlsx';
+export const permission = '[Bản mẫu nhập dữ liệu chức vụ].xlsx';
